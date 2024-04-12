@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <title>CSS Styling formats</title>
+    </head>
+    <body>
+        <h2 style = "color: red;">CAUTION: Icy Road Construction</h2>
+        <h2>Please Slow Down</h2>
+    </body>
+    </html>

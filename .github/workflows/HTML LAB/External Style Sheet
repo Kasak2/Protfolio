@@ -1,0 +1,10 @@
+<html>
+<head>
+    <title> CSS Styling formats </title>
+    <link rel= "stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+    <h2>CAUTION: Icy Road Construction</h2>
+    <h2>Please Slow Down!</h2>
+</body>
+</html>
